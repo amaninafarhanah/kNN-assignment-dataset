@@ -5,7 +5,7 @@
 import pandas as pd 
 import numpy as np 
 
-# Load the real estate data
+# load the real estate data
 df = pd.read_csv('real_estate_price_size_year_view.csv')
 
 df.head()
