@@ -1,4 +1,4 @@
-# kNN-real-estate-datatet
+# kNN-real-estate-dataset
 
 #!/usr/bin/env python
 # coding: utf-8
