@@ -35,8 +35,8 @@ knn = KNeighborsClassifier(n_neighbors = 5)
 
 knn.fit(X_train, y_train)
 
-#show first 5 model predictions on the test data
+#show model predictions on the test data
 knn.predict(X_test)
 
-#check accuracy of our model on the test data
+#check accuracy of model on the test data
 knn.score(X_test, y_test)
