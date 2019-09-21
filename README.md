@@ -1,11 +1,11 @@
 # kNN-real-estate-dataset
 
 
-# import libraries
+#import libraries
 import pandas as pd 
 import numpy as np 
 
-# load the real estate data
+#load the real estate data
 df = pd.read_csv('real_estate_price_size_year_view.csv')
 
 df.head()
